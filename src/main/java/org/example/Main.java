@@ -34,6 +34,7 @@ public class Main {
           break;
         case "/":
           result = calculation.division(num1, num2);
+          break;
         default:
           System.out.println("対応していない演算子です");
           return;
