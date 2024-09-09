@@ -31,7 +31,6 @@ public class Calculation {
       return num1 / num2;
 
     }
-
   }
 }
 
